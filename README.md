@@ -15,7 +15,7 @@ The dataset contains various features extracted from network connections, includ
 
 ## Workflow
 
-The Jupyter Notebook (`your_notebook_name.ipynb`) follows these key steps:
+The Jupyter Notebook (`Program.ipynb`) follows these key steps:
 
 1.  **Data Loading:** Loads the `Train_data.csv` file using Pandas.
 2.  **Exploratory Data Analysis (EDA):** Basic exploration including checking data shapes, types, missing values, and the distribution of the target variable ('class').
